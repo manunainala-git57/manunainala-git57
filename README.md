@@ -13,11 +13,11 @@
 ## <div align="center">👨‍💻 About Me</div>
 
 
-<img align="right" alt="Woman Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Woman Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTByNDAyZzFoNWhkb2Y3Nm9rbWdraW01M3J3bmJwMnd3cDFtc2JkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8KefZiJ2ae0VMAmsi/giphy.gif">
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Manu Sri Nainala",
     role: "Full-Stack MERN Developer",
     location: "India 🇮🇳",
     
@@ -28,7 +28,7 @@ const developer = {
         languages: ["JavaScript", "Java", "Python"]
     },
     
-    currentlyLearning: "Advanced React Patterns & Microservices",
+    currentlyLearning: "Advanced React Patterns",
     currentProject: "Building awesome MERN applications",
     
     code: "Clean, Scalable & Maintainable",
@@ -36,10 +36,11 @@ const developer = {
 };
 ```
 
-- 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Learning **Advanced React & Node.js**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Java, Python**
-- 📫 Reach me at: **your.email@example.com**
+- 🔭 Currently working on **MERN Stack Projects and AI/ML and Data Science Projects**
+- 🌱 Learning **Advanced React , Node.js , AI & ML , Data Science**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Java, Python , AI/ML , Data Science**
+- 📫 Reach me at: **manunainala@gmail.com**
+- 🔗 Portfolio - **https://manunainala.vercel.app/**
 - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
 
 ---
@@ -61,12 +62,22 @@ const developer = {
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+🤖 AI/ML & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
+
 ### 💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
 
 ### 🔧 Tools
 <p align="center">
@@ -101,9 +112,8 @@ const developer = {
 
 
 ## <div align="center">🐍 Contribution Snake</div>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/manunainala-git57/manunainala-git57/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/manunainala-git57/manunainala-git57/main/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -120,12 +130,25 @@ Building full-stack applications with modern JavaScript technologies
 
 ---
 
+## <div align="center">🤖 AI/ML & Data Science Journey</div>
+
+<div align="center">
+  
+**Data Analysis** → **Machine Learning** → **Model Building** → **Deployment**
+  
+🏥 Disease Prediction Models | 💬 Chatbots with API Integration | 🎯 Recommender Systems
+  
+Transforming data into intelligent solutions with Python & ML libraries
+</div>
+
+---
+
 ## <div align="center">🎯 Current Focus</div>
 
 - 🔥 Building scalable MERN applications
 - 🚀 Exploring advanced React patterns
 - 📚 Learning cloud technologies
-
+- 🤖 Building ML models and exploring Data
 ---
 
 ## <div align="center">💬 Random Dev Quote</div>
@@ -151,10 +174,6 @@ Building full-stack applications with modern JavaScript technologies
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manunainala-git57&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
 <div align="center">
   
