@@ -27,9 +27,16 @@ const developer = {
         database: ["MongoDB"],
         languages: ["JavaScript", "Java", "Python"]
     },
+
+    aiml: {
+        frameworks: ["Scikit-learn"],
+        libraries: ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
+        tools: ["Jupyter Notebook", "Google Colab", "Anaconda"],
+        specialization: ["Machine Learning", "Deep Learning", "Data Analysis"]
+        },
     
-    currentlyLearning: "Advanced React Patterns",
-    currentProject: "Building awesome MERN applications",
+    currentlyLearning: "Advanced React Patterns", "Deep Learning" , "Data Science"
+    currentProject: "Building awesome MERN applications","Building Machine Learning Models"
     
     code: "Clean, Scalable & Maintainable",
     motto: "Code is poetry written in logic! 🎨"
@@ -102,9 +109,27 @@ const developer = {
 
 ---
 
-## <div align="center">🚀 Featured Projects</div>
+## <div align="center"> 🔥 Recent Projects </div>
 
-<div align="center">
+<div align="center"> 
+
+### 🌟 [Agreema - Digital Agreement Making](https://github.com/manunainala-git57/digital-agreement-making.git)
+Developed a responsive web app to solve a real-world problem of digital agreement creation, signing, and management. Implemented role-based authentication, document tracking, and mobile-friendly UI
+- 🚀 **Tech Stack**: React, Node.js, MongoDB , Material UI , EmailJs , PDF - Lib 
+- 🎯 **Features**: Digital Signing , Tracking Signing Status , Downloading Agreement as PDF , Nptifying through Email
+- 📦 **Status**: Completed
+
+### 🌟 [ChatterBox - Real Time Chat Application](https://github.com/manunainala-git57/Chat-App-MERN.git)
+Built a scalable chat application using MERN Stack, featuring user authentication with JWT, login/signup
+functionality, and real-time messaging powered by Socket.io.
+- 🚀 **Tech Stack**: React, Node.js, MongoDB , Socket.io
+- 🎯 **Features**: Login / Logout option , Avatar profiles , Searching people , Notifications Sound when messages pop up 
+- 📦 **Status**: Completed
+
+### 🌟 [Travel and Tourism ChatBot](https://github.com/manunainala-git57/travel-toursim-chatbot.git)
+A Streamlit-based AI-powered chatbot that helps users find travel destinations, including ideal visit times, key attractions, and estimated costs. The bot uses NLP and AI models to provide refined travel recommendations.
+- 🚀 **Tech Stack**: python , Streamlit , Gemini API
+- 📦 **Status**: Completed
 
 </div>
 
