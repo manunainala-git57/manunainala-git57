@@ -13,7 +13,7 @@
 ## <div align="center">👨‍💻 About Me</div>
 
 
-<img align="right" alt="Coding Inspiration" width="500" , height = "500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTByNDAyZzFoNWhkb2Y3Nm9rbWdraW01M3J3bmJwMnd3cDFtc2JkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8KefZiJ2ae0VMAmsi/giphy.gif">
+<img align="right" alt="Coding Inspiration" width="400"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTByNDAyZzFoNWhkb2Y3Nm9rbWdraW01M3J3bmJwMnd3cDFtc2JkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8KefZiJ2ae0VMAmsi/giphy.gif">
 
 ```javascript
 const developer = {
@@ -39,7 +39,7 @@ const developer = {
     currentProject: "Building awesome MERN applications","Building Machine Learning Models"
     
     code: "Clean, Scalable & Maintainable",
-    motto: "Code is poetry written in logic! 🎨"
+    motto: "Code is poetry written in logic! "
 };
 ```
 
@@ -111,8 +111,6 @@ const developer = {
 
 ## <div align="center"> 🔥 Recent Projects </div>
 
-<div align="center"> 
-
 ### 🌟 [Agreema - Digital Agreement Making](https://github.com/manunainala-git57/digital-agreement-making.git)
 Developed a responsive web app to solve a real-world problem of digital agreement creation, signing, and management. Implemented role-based authentication, document tracking, and mobile-friendly UI
 - 🚀 **Tech Stack**: React, Node.js, MongoDB , Material UI , EmailJs , PDF - Lib 
@@ -130,8 +128,6 @@ functionality, and real-time messaging powered by Socket.io.
 A Streamlit-based AI-powered chatbot that helps users find travel destinations, including ideal visit times, key attractions, and estimated costs. The bot uses NLP and AI models to provide refined travel recommendations.
 - 🚀 **Tech Stack**: python , Streamlit , Gemini API
 - 📦 **Status**: Completed
-
-</div>
 
 ---
 
