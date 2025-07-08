@@ -4,14 +4,13 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjd4MWkwYTY2cDA1NzdyZGR5eG9uY3VoNDRhdXQxNGo3YzlxNHF2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nm8ZPAGOwZUQM/giphy.gif" width="70%" />
-
 </p>
 
 ---
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/GMHdf6p.gif" width="70%" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="70%" />
 </p>
 
 ---
