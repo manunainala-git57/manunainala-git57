@@ -113,21 +113,21 @@ const developer = {
 
 ### 🌟 [Agreema - Digital Agreement Making](https://github.com/manunainala-git57/digital-agreement-making.git)
 Developed a responsive web app to solve a real-world problem of digital agreement creation, signing, and management. Implemented role-based authentication, document tracking, and mobile-friendly UI
-- 🚀 **Tech Stack**: React, Node.js, MongoDB , Material UI , EmailJs , PDF - Lib 
-- 🎯 **Features**: Digital Signing , Tracking Signing Status , Downloading Agreement as PDF , Nptifying through Email
-- 📦 **Status**: Completed
+-  **Tech Stack**: React, Node.js, MongoDB , Material UI , EmailJs , PDF - Lib 
+-  **Features**: Digital Signing , Tracking Signing Status , Downloading Agreement as PDF , Nptifying through Email
+-  **Status**: Completed
 
 ### 🌟 [ChatterBox - Real Time Chat Application](https://github.com/manunainala-git57/Chat-App-MERN.git)
 Built a scalable chat application using MERN Stack, featuring user authentication with JWT, login/signup
 functionality, and real-time messaging powered by Socket.io.
-- 🚀 **Tech Stack**: React, Node.js, MongoDB , Socket.io
-- 🎯 **Features**: Login / Logout option , Avatar profiles , Searching people , Notifications Sound when messages pop up 
-- 📦 **Status**: Completed
+-  **Tech Stack**: React, Node.js, MongoDB , Socket.io
+-  **Features**: Login / Logout option , Avatar profiles , Searching people , Notifications Sound when messages pop up 
+-  **Status**: Completed
 
 ### 🌟 [Travel and Tourism ChatBot](https://github.com/manunainala-git57/travel-toursim-chatbot.git)
 A Streamlit-based AI-powered chatbot that helps users find travel destinations, including ideal visit times, key attractions, and estimated costs. The bot uses NLP and AI models to provide refined travel recommendations.
-- 🚀 **Tech Stack**: python , Streamlit , Gemini API
-- 📦 **Status**: Completed
+-  **Tech Stack**: python , Streamlit , Gemini API
+-  **Status**: Completed
 
 ---
 
@@ -156,7 +156,7 @@ Building full-stack applications with modern JavaScript technologies
   
 **Data Analysis** → **Machine Learning** → **Model Building** → **Deployment**
   
-🏥 Disease Prediction Models | 💬 Chatbots with API Integration | 🎯 Recommender Systems
+Disease Prediction Models | Chatbots with API Integration | Recommender Systems
   
 Transforming data into intelligent solutions with Python & ML libraries
 </div>
@@ -165,10 +165,10 @@ Transforming data into intelligent solutions with Python & ML libraries
 
 ## <div align="center">🎯 Current Focus</div>
 
-- 🔥 Building scalable MERN applications
-- 🚀 Exploring advanced React patterns
-- 📚 Learning cloud technologies
-- 🤖 Building ML models and exploring Data
+-  Building scalable MERN applications
+-  Exploring advanced React patterns
+- Learning cloud technologies
+- Building ML models and exploring Data Science
 ---
 
 ## <div align="center">💬 Random Dev Quote</div>
