@@ -24,7 +24,7 @@ const developer = {
     techStack: {
         frontend: ["React.js", "HTML5", "CSS3", "JavaScript"],
         backend: ["Node.js", "Express.js"],
-        database: ["MongoDB"],
+        database: ["MongoDB" ,"MySQL"],
         languages: ["JavaScript", "Java", "Python"]
     },
 
