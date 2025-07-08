@@ -110,13 +110,6 @@ const developer = {
 
 ---
 
-## <div align="center">🐍 Contribution Snake</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/manunainala-git57/manunainala-git57/main/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## <div align="center">💡 MERN Stack Journey</div>
 
 <div align="center">
