@@ -13,8 +13,6 @@
 ## <div align="center">👨‍💻 About Me</div>
 
 
-<img align="right" alt="Coding Inspiration" width="400"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTByNDAyZzFoNWhkb2Y3Nm9rbWdraW01M3J3bmJwMnd3cDFtc2JkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8KefZiJ2ae0VMAmsi/giphy.gif">
-
 ```javascript
 const developer = {
     name: "Manu Sri Nainala",
