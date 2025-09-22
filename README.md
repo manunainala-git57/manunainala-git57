@@ -1,7 +1,7 @@
 # <div align="center">🚀 Welcome to My Code Universe! 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+MERN+Developer;React.js+%2B+Node.js+%2B+Express.js+%2B+MongoDB;Java+%7C+Python+Developer;Building+Scalable+Applications;Passionate+Problem+Solver&font=Fira%20Code&center=true&width=600&height=60&duration=4000&pause=1000&color=00D9FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+MERN+Developer;React.js+%2B+Node.js+%2B+Express.js+%2B+MongoDB;Data+Analyst;Machine+Learning;Building+Scalable+Applications;Passionate+Problem+Solver&font=Fira%20Code&center=true&width=600&height=60&duration=4000&pause=1000&color=00D9FF&vCenter=true&size=22" alt="Typing SVG" />
 </div>
 
 <div align="center">
